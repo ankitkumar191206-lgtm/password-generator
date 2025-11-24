@@ -13,16 +13,13 @@
 1. Make sure you have Python installed (version 3.x recommended).
 2. Clone this repository:
 
-```bash
-git clone https://github.com/your-username/password-generator.git
+```
 Navigate to the project folder:
 
-bash
 Copy code
 cd password-generator
 Run the program:
 
-bash
 Copy code
 python password_generator.py
 Usage
@@ -74,3 +71,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
+Ankit Kumar
